@@ -70,6 +70,7 @@ namespace TestLib
             }
             return true;//符合身份证标准
         }
+         
 
         //public static bool CheckMobile(string mobile)
         //{
